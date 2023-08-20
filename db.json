@@ -2,28 +2,123 @@
     
   ],
   "posts": [
-    { 
-        "id": 1,
-        "title": "【愛在大都會】探索愛、真實與自我",
-        "createAt": "02 Feb 2021",
-        "author": "Jam Jam",
-        "description": "<p class='mb-4'>由 kakao TV 製作推出，一集只有 30 分鐘的實驗劇。</p><p class=''>都市男女是一齣仿戀愛真人秀的劇集，每集主人公們都會出來回答訪談問題，有趣的是節目在開頭就說，訪談對象說的可能不是真話！</p>",
-        "imageUrl": "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/01_Lovestruck_in_the_city/01.jpg?raw=true",
-        "isPublic": true,
-        "tag": [
-        "浪漫愛情",
-        "韓劇",
-        "喜劇",
-        "療癒"
-        ],
-        "imageUrlList": [
-        "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/01_Lovestruck_in_the_city/01.jpg?raw=true"
-        ],
-        "postType": "跟播紀錄",
-        "category": "影劇",
-        "content": "<p class='mb-4'>從第一集兩人初相遇，宰元就對善雅感到好奇，他想知道眼前這個女孩究竟是怎麼樣的一個人？我們便知道，宰元早已陷入。在《春夜》中也曾出現過類似的對話，女主角的同事兼好友對女主角說：「對某個人感到好奇可是個重要徵兆，因為你會時時想起他，那就代表你對他有興趣。」</p><p class='mb-4'>有多久沒有對人感到好奇了呢？好想念啊拼命想要認識一個人，渴望被對方認識的小心思。既大膽妄為又小心翼翼的我，真懷念啊！</p><p class='mb-4'>尹善雅明亮、充滿活力，屬於她的畫面是熱情高漲的，在車上高歌、牽著狗兒在沙灘上奔跑、笑容燦爛真誠，行為鬼靈精怪卻讓人為她瘋狂，她是如此閃耀，在襄陽的白天夜晚，宰元徹底向她臣服。可是回到首爾，尹善雅說，我叫李恩梧，你愛上的不是真正的我。然而，在第三集的時侯，恩梧不就選擇拋下過去的自己，想要做為尹善雅而活了嗎，為什麼又會這麼想呢？恩梧到底是個怎麼樣的女孩，我很好奇。</p><p class='mb-4'>目前看到第五集，感受到劇集想探討的議題：真實/謊言、平凡/特別、個人的獨一無二、一段關係的結束、尋找自我（真實的我與另一個我）</p><p class='mb-4'>(更新)第6集結尾的番外小劇場太有趣了，在《RUN ON》中也有這種手法，不曉得是否為近來韓劇熱衷的表現方式？劇中劇的形式為都會劇開拓更寬廣的發展空間，避免沒有強烈起伏、貼近日常的情節讓觀眾感到疲乏，如何有趣又不突兀的出現在戲劇中，可說是相當挑戰導演功力的一種挑戰。加上就我對自己觀影經驗的觀察，即便該集劇情平淡，沒有特別精彩的戲碼，但只要有個令人眼睛為之一亮的結尾，就會覺得這集很精彩，因此如何將結尾設計的新穎巧妙，也是決定一齣戲成敗的重要關鍵。</p><h4 class='text-xl font-bold mt-8 mb-4 text-stone-900'>都市男女語錄</h4><p class=' text-stone-700 mb-3'>今日事不今日畢，天也不會塌下來，這是我的人生哲學。</p><p class='text-end text-stone-700'>—— 朴宰元</p>"
-    }
-  ],
+  {
+    "id": 1,
+    "title": "【愛在大都會】探索愛、真實與自我，都市男女久違的純愛心動",
+    "createAt": 1612224000,
+    "author": "Jam Jam",
+    "description": "由 kakao TV 製作推出，一集只有 30 分鐘的實驗劇。都市男女是一齣仿戀愛真人秀的劇集，每集主人公們都會出來回答訪談問題，有趣的是節目在開頭就說，訪談對象說的可能不是真話！",
+    "imageUrl": "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/01_Lovestruck_in_the_city/01.jpg?raw=true",
+    "isPublic": true,
+    "tag": [
+      "浪漫愛情",
+      "韓劇",
+      "喜劇",
+      "療癒"
+    ],
+    "imageUrlList": [
+      "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/01_Lovestruck_in_the_city/01.jpg?raw=true"
+    ],
+    "postType": "跟播紀錄",
+    "category": "影劇",
+    "content": "<p class=\"mb-4\">從兩人初相遇，宰元就對善雅這個奇特的女孩感到好奇。很顯然地，宰元陷入愛情了。不禁讓人想起在韓劇《春夜》中，女主角李靜仁的同事兼好友，也曾對她說：「對某個人感到好奇可是個重要徵兆，因為你會時時想起他，那就代表你對他有興趣。」</p>\n<p class=\"mb-4\">有多久沒有對人感到好奇了呢？好想念啊拼命想要認識一個人，渴望被對方認識的小心思。既大膽妄為又小心翼翼的我，真懷念啊！</p>\n<p class=\"mb-4\"><img src=\"https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/01_Lovestruck_in_the_city/02.jpg?raw=true\" alt=\"\" width=\"1280\" height=\"853\"></p>\n<p class=\"mb-4\">尹善雅明亮、充滿活力，屬於她的畫面是熱情高漲的，在車上高歌、牽著狗兒在沙灘上奔跑、笑容燦爛真誠，行為鬼靈精怪卻讓人為她瘋狂，她是如此閃耀，在襄陽的白天夜晚，宰元徹底向她臣服。可是回到首爾，尹善雅說，我叫李恩梧，你愛上的不是真正的我。然而，在第三集的時侯，恩梧不就選擇拋下過去的自己，想要做為尹善雅而活了嗎，為什麼又會這麼想呢？恩梧到底是個怎麼樣的女孩，我很好奇。</p>\n<p class=\"mb-4\">目前看到第五集，感受到劇集想探討的議題：真實/謊言、平凡/特別、個人的獨一無二、一段關係的結束、尋找自我（真實的我與另一個我）</p>\n<p class=\"mb-4\">(更新)第6集結尾的番外小劇場太有趣了，在《RUN ON》中也有這種手法，不曉得是否為近來韓劇熱衷的表現方式？劇中劇的形式為都會劇開拓更寬廣的發展空間，避免沒有強烈起伏、貼近日常的情節讓觀眾感到疲乏，如何有趣又不突兀的出現在戲劇中，可說是相當挑戰導演功力的一種挑戰。加上就我對自己觀影經驗的觀察，即便該集劇情平淡，沒有特別精彩的戲碼，但只要有個令人眼睛為之一亮的結尾，就會覺得這集很精彩，因此如何將結尾設計的新穎巧妙，也是決定一齣戲成敗的重要關鍵。</p>\n<h4 class=\"text-xl font-bold mt-8 mb-4 text-stone-900\">都市男女語錄</h4>\n<p class=\" text-stone-700 mb-3\">今日事不今日畢，天也不會塌下來，這是我的人生哲學。</p>\n<p class=\"text-right text-stone-700\">&mdash;&mdash; 朴宰元</p>"
+  },
+  {
+    "author": "JamJam",
+    "imageListUrl": [],
+    "isPublic": true,
+    "tag": [
+      "韓樂",
+      "樂團",
+      "音綜",
+      "選秀"
+    ],
+    "createAt": 1692316800,
+    "title": "音樂天才的樂團盛宴《Super Band 2》—— 誰是我的初 pick？",
+    "postType": "入坑紀實",
+    "category": "音樂",
+    "description": "兜兜轉轉，與曾經棄追的樂團選秀再次相愛！Jam 唯一推薦韓國樂團選秀《Super Band》第二季，遲來兩年的偽跟播紀錄～",
+    "imageUrl": "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/07_Super_band_2/02.jpg?raw=true",
+    "id": 2,
+    "content": "<p class=\"mb-4\">無意間點開尹尚的音樂節目《致你的音樂》貝斯特輯，嘉賓是 趙元祥、 寄旭（CyA）、卞禎浩。前二，一位是《Super Band》第一季（以下簡稱《超樂》）LUCY 出身、另一位則有出演 Mnet 樂團選秀《Great Seoul Invasion》（選手很好，但剪輯超爛半推半不推）的樂團 ONEWE 貝斯手，所以也略有印象；但全程最搶眼的性感貝斯 卞禎浩，我居然不認識！他所屬的 CNEMA 又是什麼樂團？瞬間引爆我的好奇心，就這樣發現是《超樂》第二季組成的樂團，於是我這個上週才發誓不熬夜追音綜的女子，又不小心跌入《超樂 2》大坑。</p>\n<p class=\"mb-4\">當然邊看也要邊推坑，這篇就以 EP1- EP6 正賽第一輪為止的舞台，正式推薦讓我眼睛為之一亮的音樂人們吧！</p>\n<h2 class=\"text-xl lg:text-2xl mb-6 font-bold\">1. 絢麗的古典吉他女神 &mdash;&mdash; 張夏恩（장하은）</h2>\n<p class=\"mb-4\">首先是，一說話就會露出傻傻甜笑的夏恩，還以為是可愛羞澀的音樂新人，結果一上舞台，瞬間用細膩的琴聲，讓人凝神於她的音樂世界。不愧是來自吉他世家，擁有數百場海外演出經驗的隱士高手呢！加上沉浸在音樂時，夏恩那副專注神情、淺淺勾起的嘴角，以及猶如和吉他融為一體的肢體動作，都讓人深深感受到她對吉他的熱愛。</p>\n<p class=\"mb-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/pWSsArVPkqE\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p class=\"mb-6 text-stone-700\">➤ 製作人選拔初舞台 QUEEN 〈Bohemian Rhapsody〉(波西米亞狂想曲)</p>\n<p class=\"mb-4\">更意外的是，在正賽第一輪舞台驚喜開嗓的夏恩，居然還有超甜美的純淨音色，和 NAVII 合聲配合渾然天成，簡直像出道多年的男女混聲組合，實在是個寶藏角色呢🤍</p>\n<p class=\"mb-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/1mhZ9djnyjw\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p class=\"mb-6 text-stone-700\">➤ 正賽 1round 舞台 自作曲〈青蛙〉- 大推⭐⭐⭐</p>\n<p class=\"mb-4\">&nbsp;</p>\n<h2 class=\"text-xl lg:text-2xl mb-6 font-bold\">2.&nbsp;十項全能演奏兼育兒&nbsp;國民叔叔 &mdash;&mdash; 金瑟雍（김슬옹）</h2>\n<p class=\"mb-4\">金瑟雍，這季的 zai.ro 老師 XDD 籤運一流爛，但有撕裂舞台的萬能實力，好喜歡看他帶著 12 歲的小多溫，起初看似好爸爸帶小孩，選曲、編曲、細節構思等苦功全部一人包，還叫弟弟先去玩，還很天才的把〈香菸店小姐〉改成適合小孩子的〈糖果店小姐〉。沒想到練習合奏時爆炸嚴格，一直：重來、重來、重來，慈父嚴師性格好加分😻（反正被唸的不是我　哈哈哈）</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/lORC61Fwh-M\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p class=\"mb-6 text-stone-700\">➤ 正賽 1round 舞台 〈糖果店小姐〉（改編　任昌植〈香菸店小姐〉）- 推推⭐⭐</p>\n<p class=\"mb-6 text-stone-700\">&nbsp;</p>\n<h2 class=\"text-xl lg:text-2xl mb-6 font-bold\">3. Sexy 的化身 人間貝斯 &mdash;&mdash; 卞禎浩（변정호）</h2>\n<p class=\"mb-4\">看似冷都男，但講話聲音很溫柔，實際上是會躺在床上大笑的反差萌可愛鬼禎浩。舞台目標是「成為尹尚的男人」？結果一直被尹尚海王甩超好笑～ 演奏技巧、聲音掌控、舞台表現力太完美了，就是我心中的貝斯手模板，也是我的 1 Pick！但必須承認看到第八集都還沒出現讓我超級滿意的舞台，給我清醒一點禎浩哥，你的實力不只這樣的！雖然我只要看到他的鏡頭就快樂，但不要讓我變成盲目暈船仔啦～～</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/CxM0N8eAGLE\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p class=\"mb-6 text-stone-700\">➤ 製作人選拔初舞台 Chris Brown〈Fun〉- 推推 ⭐⭐</p>\n<p class=\"mb-4\">&nbsp;</p>\n<h2 class=\"text-xl lg:text-2xl mb-6 font-bold\">4. 永不過時的傳統硬搖滾 &mdash;&mdash; Crack Shot</h2>\n<p class=\"mb-4\">搖滾不死～～～～說實話一開始看到他們出場，視覺強烈到我沒有很感興趣，但一看舞台馬上狂喊：搖滾就是要這樣！！！吉他的 tone 跟主唱的搖滾嗓，就素一個字「神」！每次尹鐘信評價他們很懂 40-50 歲的人喜歡什麼，我就汗顏 (⊙_(⊙_⊙)_⊙) ，原來我是老人喜好啦，新潮搖滾再怎麼有趣，還是原汁原味的 Hard Rock 最過癮阿！</p>\n<p class=\"mb-4\">成團八年次的 Crack Shot（2023 年已經十週年了），希望可以成為長長久久的樂團組合～</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/3TVflKv9JjI\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p class=\"mb-6 text-stone-700\">➤ 正賽 1round 舞台 珍珠〈我沒關係〉- 搖滾迷 ⭐⭐⭐⭐</p>\n<p class=\"mb-4\">&nbsp;</p>\n<h2 class=\"text-xl lg:text-2xl mb-6 font-bold\">5. 其他：入坑邊緣參賽者推薦</h2>\n<ol class=\"mb-4 list-decimal space-y-6 list-inside \">\n<li>\n<h3 class=\"lg:text-xl font-bold mb-4 inline-block ml-2\">音色迷人組</h3>\n<ul class=\"list-disc space-y-3 indent-2 list-inside\">\n<li>任閏聲，剛退役的軍人歐巴，狂野低音王者，是我最喜歡的主唱音色！\n<div class=\"py-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/abDjSOMNT8o\" width=\"560\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n</li>\n<li>金漢謙，擁有厚實顆粒嗓音，一頭狂野亂髮但近看很可愛的 19 歲搖滾 baby</li>\n<li>文秀珍，本季女主唱中我最愛的中低音色，讓人想依靠的溫柔姐姐</li>\n<li>J.UNA，太常聽他的歌了，沒有被驚喜到，但也是我想追的原因之一啦</li>\n<li>Ki Tak，聲音很溫柔，感覺是最適合音源的歌手，但更期待後續有形象反轉！</li>\n</ul>\n</li>\n<li>\n<h3 class=\"lg:text-xl font-bold mb-4 inline-block ml-2\">演奏天才組</h3>\n<ul class=\"list-disc space-y-3 indent-2 list-inside\">\n<li>金成鉉，被柳熙烈評為「這季的吉他」，某個角度長得很像 Gray，還有彈琴時搶眼的手臂肌肉 &gt; //// &lt;\n<div class=\"py-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/2IRCnIAKKVM\" width=\"560\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n</li>\n<li>梁張世敏，我的第二 pick 貝斯，演奏〈Disco Yes〉身體會不自覺想跟著他的 groove 一起搖擺（因為版權關係只附<a class=\"underline text-stone-700\" href=\"https://youtu.be/RxGlK2pRNLw\">連結</a>）</li>\n<li>金准緒，從第一首選曲〈Falling Slowly〉就收穫我的心，琴聲有乾淨浪漫的少年感，還是我們吉他天才永所弟弟的親故兼音樂好夥伴，也有參與永所專輯的製作！\n<div class=\"py-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/o5ScdwA82lc\" width=\"560\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n</li>\n<li>吳垠澈，《幻影歌手》音樂導演，這季的一拿五，個人認為是情緒傳染力最強的樂手</li>\n</ul>\n</li>\n<li>\n<h3 class=\"lg:text-xl font-bold mb-4 inline-block ml-2\">製作功臣組</h3>\n<ul class=\"list-disc space-y-3 indent-2 list-inside\">\n<li>綠豆，他的合成器流行曲風無敵，將 BLACKPINK 的〈Forever Young〉改成超級清爽的編曲，偷偷劇透第 9 集很像 Hong Issac 😂\n<div class=\"py-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/_KvVrujBeSM\" width=\"560\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n</li>\n<li>DAVII，橫掃音源榜的製作人，擅長中毒性超強的 hook song，看完舞台後我腦海裡都是 개구~개구~ 青蛙~青蛙~(就是我推爆的夏恩的第二場舞台)</li>\n<li>黃賢朝，籌備舞台還會做超完整戰略簡報的腦性 DJ 製作人，帥氣的外表但聲音意外很柔軟🤩</li>\n<li>朴多蔚，看過的所有選秀中將韓國國樂與西洋樂器融合地最自然的樂手，總是讓人期待他的表演</li>\n</ul>\n</li>\n</ol>\n<p class=\"mb-4\">&nbsp;</p>\n<h2 class=\"text-xl lg:text-2xl mb-6 font-bold\">後記：真正的入坑契機是？</h2>\n<p class=\"mb-4\">過去一年，我已經養成每天選一首歌做為人生紀錄的習慣。但這個月不知為何，幾乎每天都很難挑選到合意的音樂，出現大歌荒危機。在串流平台上左挑右揀時，逐漸對 Crack Shot 這個樂團著迷了，怎麼能在抒情搖滾、金屬搖滾等不同曲風自由轉換，將充滿能量的表演跟細膩感性都做到極致，尤其是吉他演奏實在太優秀了，讓我印象深刻。</p>\n<p class=\"mb-4\">後來看到他們有《 超級樂隊 Super Band 2》發行的音源，讓剛看完相同製作團隊的男聲四重唱選秀《幻影歌手 Phantom Singer 3》，小小燃起想看樂團選秀的心。卞禎浩只是那臨門一腳，讓我放棄掙扎，原地入坑(❁&acute;◡`❁)&nbsp;</p>\n<p class=\"mb-4\">&nbsp;</p>\n<div class=\"py-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/4N43qTTOVDA\" width=\"560\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p class=\"mb-6 text-stone-700\">➤ 크랙샷 (CrackShot) - 〈Goodbye My Love〉 我的入坑曲～自從看過他們本人後更驚訝怎麼連抒情也擅長了，如果是喜歡 YB Band 應該也會超愛</p>\n<p class=\"mb-4\">&nbsp;</p>\n<div class=\"py-4\"><iframe class=\"aspect-auto w-full\" title=\"YouTube video player\" src=\"https://www.youtube.com/embed/BOONy9mvZbI\" width=\"560\" height=\"315\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p class=\"mb-6 text-stone-700\">➤ 크랙샷 (CrackShot) - 〈INFP〉我們 INFP也有歌捏，好快樂！一開始聽起來有點像灌籃高手的主題曲 😂😂</p>"
+  },
+  {
+    "author": "JamJam",
+    "imageListUrl": [],
+    "isPublic": true,
+    "tag": [
+      "韓劇",
+      "女性",
+      "治癒",
+      "反思"
+    ],
+    "createAt": 1685836800,
+    "title": "細嚼慢嚥 《浪漫的體質》EP1 —— 關於我。醜陋的真實",
+    "postType": "隨筆短篇",
+    "content": "<p class=\"mb-4\">「我現在感受到的晦氣，是成功者自帶的晦氣嗎？還是我這沒出息的人，眼前帶有的假晦氣呢？」</p>\n<p class=\"mb-4\">「首先妳要成功，如果到時候妳還是覺得他晦氣，那說明他本身就晦氣。」</p>\n<p class=\"mb-4\">/</p>\n<p class=\"mb-4\">因為前陣子工作上合作過的 KOL 人設崩塌，就關注了一輪最近各種被踢爆的 KOL 失格新聞。一開始以為只是懷著看八卦的心態點進去，然而我卻慢慢意識，我渴望看到的，我目光停留之處，是那些狠狠批判他們，討伐他們過錯的留言。儘管是有理有據、看似為受害者出氣的言論，但我是正義嗎？不，我只是想看他們從神壇跌落的樣子。我，躲在螢幕背後，即使沒有敲打鍵盤，也漫湧著見獵心喜的惡意。</p>\n<p class=\"mb-4\">的確，我的確在過往就對這位 KOL 欠缺好感。但不想看見我不喜歡的人成功，就能順理成章地希望我不喜歡的人失敗嗎？</p>\n<p class=\"mb-4\">是因為這樣才能證明，我的不喜歡才是明智的，其他人都是受騙的笨蛋？還是他們僅僅是我這樣眼前佈滿晦氣，沒出息的人，胡亂宣洩自卑感的工具呢？</p>\n<p class=\"mb-4\">承認這樣醜陋的真實，並不能洗滌內心的黑暗。但至少在一片混濁中，我能瞥見自我的灰影。它歪歪斜斜跟在身後，但我會記得這是我的一部分，記得費心與之斡旋，不讓自己被黑夜吞沒。</p>\n<p class=\"mb-4\">&nbsp;</p>",
+    "category": "影劇",
+    "description": "陷入產出困難瓶頸好一陣子，於是先改以隨筆短篇降低發文門檻，主要是對劇情片段有感而發，所以力求真實，不求完整！",
+    "imageUrl": "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/03_Be_melodramatic/01.jpg?raw=true",
+    "id": 3
+  },
+  {
+    "author": "JamJam",
+    "imageListUrl": [],
+    "isPublic": true,
+    "tag": [
+      "韓劇",
+      "文藝",
+      "浪漫",
+      "難以預測"
+    ],
+    "createAt": 1687651200,
+    "title": "銀行員社內戀愛《愛情的理解》，文佳瑛 X 柳演錫共譜文藝現實愛情",
+    "postType": "無雷推薦",
+    "category": "影劇",
+    "description": "倘若不以尋求解答為目的地觀看，像閒逛二手市集東翻翻西找找，反而能撞見許多藏有線索的寶盒。",
+    "imageUrl": "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/02_The_interest_of_love/01.jpg?raw=true",
+    "content": "<p class=\"mb-4\">沒有台詞的鏡頭很多，像藝術品般無聲進行的動作、眼神、場景擺設等，即便觀眾一知半解也能感受美。時不時當作飯後甜點淺嚐幾口，讓舌尖浸潤於細膩綿長的香氣，比起當正餐大菜享用更能體會這部劇的趣味。</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\">/ 本篇無雷 請安心食用🤍/</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\">雖說是以氛圍、感覺、畫面為主的文藝愛情片，但演員的表現力誠然是觀眾能否自我投射的關鍵。劇集步調慢，因而能精雕細琢角色樣貌，讓角色間的愛恨交織富有戲劇性，卻不流於灑狗血，反倒忠實呈現現實人生的複雜多面，也幫助觀眾理解角色不完美的選擇。</p>\n<p class=\"mb-4\">文佳煐、柳演錫僅僅對視都能散發的強大CP感（正所謂眼神拉絲？）、四位主演互相抗衡、壓迫空氣的戲劇張力讓演技粉看得相當過癮（硬要說我覺得鄭家藍的演技在之中稍弱，鐘賢初期還算討喜的人設也沒有吸引到我，導致後半雖能理解他的難處卻無法憐惜他）</p>\n<p class=\"mb-4\">/</p>\n<p class=\"mb-4\">而《愛理》台詞講究的雙關美學，從劇名就可見一斑。</p>\n<p class=\"mb-4\">이해，既有理解，也有利害的意思。成年人的愛情，免不了金錢、身分、地位的思量算計，與對正確人生道路（不論數字或愛情）的渴望。</p>\n<p class=\"mb-4\">尤其在每天直面金錢、階級分明的銀行工作，為客戶、為自己尋找一個能累積 Profits 的選擇再自然不過了。只是算透利害關係後，就能理解愛情嗎？縝密計算後的關係還能稱作愛情嗎？愛情間的感性與理性，我們又該如何取得平衡呢？</p>\n<p class=\"mb-4\">（忽然想到 balance 在財務上也有「餘額」的意思，以金融業為背景，討論愛情利害真是很巧妙的設計）</p>\n<p class=\"mb-4\">/</p>\n<p class=\"mb-4\">「他們的愛情並不像童話或電影中的故事那般美麗。因為各自的理由而猶豫、動搖、退縮，有時甚至想逃跑。但即便愛得辛苦，依舊渴望著全然的愛。」</p>\n<p class=\"mb-4\">「為什麼我們對愛情如此痴迷？也許是因為愛情是人生最大的幻想。」</p>\n<p class=\"mb-4\">人們渴望愛情，卻厭惡面對愛的不堪。比起造一個完美愛情夢，《愛理》選擇用一連串犀利的提問引導觀眾「愛情是什麼？婚姻是什麼？你現在幸福嗎？」</p>\n<p class=\"mb-4\">不只談愛，更道盡愛情的生老病死。</p>\n<p class=\"mb-4\">什麼樣的情況會交往、會結婚？又是什麼樣的情況會分手？甚至會出軌？</p>\n<p class=\"mb-4\">愛情就像所有人際交往，可能有人犯錯，也可能有人受傷，但更重要的是，能否在這段關係中認識自己的內心，在愛情的理解中，理解自我，才能真正找到平穩的幸福。</p>\n<p class=\"mb-4\">/</p>\n<p class=\"mb-4\">🦥 尖尖米碎碎念</p>\n<p class=\"mb-4\">《愛情的理解》是我從去年末開始唯一 ｏｎ 檔追的劇，完全取向狙擊！首先是 JTBC 獨有的小眾文藝感（同類型的還有收視率同樣很差的《 #無法抗拒的他 》、《 #人間失格 》，確定是在推薦 ㅋㅋㅋㅋ）比起寫故事更像是去刻劃角色的情感生活，飄飄軟軟又微悲傷的氛圍，有種飲鴆止渴的快樂&hellip;???</p>\n<p class=\"mb-4\">其次是惹人憐愛（心疼）的主角，我太能理解常秀的猶豫不決，正因為珍惜這份心意，所以無法輕易開始，然而卻總是錯過相愛的時刻。喜歡的心意足以跟對方在一起嗎？足以克服性格、喜好、價值觀、身分背景的差異嗎？因為渴望跟對方維持常常久久的關係，所以不敢隨便交往的踟躕，任誰看來，都像是愛情笨蛋吧！</p>\n<p class=\"mb-4\">我也同感秀榮埋怨常秀為何不勇敢走向她的心境。因為對自己的不自信，更因為對對方的期待，我們都想收到不管不顧，全然為你一人的心意。那些故作冷漠、嘴硬拒絕、挾怨報復，我也想不透的幼稚行徑，不過是想為單薄的自我虛張聲勢。其實我也期望，我們之間只有愛就好了，只有愛就足夠了。</p>\n<p class=\"mb-4\">因為像看見自己，所以我知道常秀跟秀榮絕對是同種人。</p>\n<p class=\"mb-4\">所以無論如何，我都想為他們的幸福應援。</p>",
+    "id": 4
+  },
+  {
+    "author": "JamJam",
+    "imageListUrl": [],
+    "isPublic": true,
+    "tag": [
+      "韓劇",
+      "浪漫",
+      "內向人",
+      "人生劇"
+    ],
+    "createAt": 1654128000,
+    "title": "致我們的解放：《我的出走日記》療癒人生韓劇",
+    "postType": "完食心得",
+    "category": "影劇",
+    "description": "「一步一步，舉步維艱地向前走」\n\n或許仍會沮喪、時而懷疑自我，可正是因為每一步都舉步維艱，才讓前進的動力被格外珍視，讓那些五秒、七秒微不足道的幸福變得值得紀念；接納自己的波動，高峰低谷都彌足珍貴。",
+    "imageUrl": "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/05_My_liberation_notes/01.jpg?raw=true",
+    "content": "<p class=\"mb-4\">「我認為那就是解放的全貌，找出自己的問題點」</p>\n<p class=\"mb-4\">◍ 一天過去了，你是活了一天，還是活過一天？ ◍</p>\n<p class=\"mb-4\">長久以來，我心中都有個疑問，我是在生活，還是在生存？每當這樣的想法竄出，我總是很害怕。於是會跟自己說，是時機不對、是我還沒準備好、是活著真的很累，總有一天我會找到自己的路；藉口越多我就越疲憊，好像成天都在撒謊，用謊言安慰自己，用謊言讓我不如此討厭自己。</p>\n<p class=\"mb-4\">內心空虛的我撞見了《我的出走日記》，從一開始就自然而然地將自己投射在美貞身上，我也想找到一個人、一件事，來填滿自己，我想要被填滿。我以為這會是《出走》要帶給觀眾的：一個美夢，一個重新開始的人生，就像眾多強調勇氣、夢想、改變的戲劇一樣。</p>\n<p class=\"mb-4\">可是《出走》沒有，僅留下許多沒有答覆的空白、自言自語，然後告訴我們，這就是解放的全部了。解放沒有終點，只有開始。解放之後不會變得輕鬆，可能照樣事事不如意、可能周遭還是有一堆王八蛋，可能我們依舊來來回回地前進又後退，但我相信也不完全是徒勞無功吧！</p>\n<p class=\"mb-4\">◍ 因為解放，是一次又一次愛上自己的進程 ◍</p>\n<p class=\"mb-4\">「一步一步，舉步維艱地向前走」</p>\n<p class=\"mb-4\">或許仍會沮喪、時而懷疑自我，可正是因為每一步都舉步維艱，才讓前進的動力被格外珍視，讓那些五秒、七秒微不足道的幸福變得值得紀念；接納自己的波動，高峰低谷都彌足珍貴。</p>\n<p class=\"mb-4\">在上一篇貼文(EP13-14心得)我曾說，即使只是做為世上七十七億分之一的一元硬幣也無所謂，世界少了我不會怎樣也無所謂，我想要這樣生活。可是現在的我卻想要相信，我們從來不是世界上不重要的一塊，生命本是自然，我們的靈魂跨越軀體在宇宙中擴散著，是綿延不斷無須證明的存在；堂堂正正地喜歡如江北山岩般裸露的自我，是我們存在，就可以有的自信。</p>\n<p class=\"mb-4\">◍ 讓我們大聲地對世界呼喊：我在這裡！(昌熙tone) ◍</p>\n<p class=\"mb-4\">願每個在人生路上舉步維艱的你，</p>\n<p class=\"mb-4\">都能像瘋了一樣，覺得自己討人喜愛。</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; ฅ՞&bull; &bull;՞ฅ &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\">🌟尖尖米的碎碎念</p>\n<p class=\"mb-4\">本來看完15集想說完蛋了，編劇又埋下這麼多未爆彈，16集如果沒有加爆時長，可能收尾會不漂亮；結果，16集編劇不僅閒情逸致地又多說了很多故事，前面那些沒說完的，因為沒有強行結尾，反而沒關係了，就當作我們無意間捕捉到廉家小片段，這本沒頭沒尾的日記、可能過了三、五年才會恍然大悟的曾經，就這樣一步一步，舉步維艱地陪我們走下去吧！</p>\n<p class=\"mb-4\">從劇中收穫感動不難，但這是第一次，我想因為這部劇做些什麼，為我自己做些什麼，期望我一直記得此刻的感受。下面是在寫這篇心得前，我寫給自己的解放日誌。無關戲劇大家可以pass，只是想誠實地為此刻的我留下紀錄。如果你願意，也歡迎和我一起，寫下屬於你的出走日記。</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\">&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; 𝐌𝐘 𝐋𝐈𝐁𝐄𝐑𝐀𝐓𝐈𝐎𝐍 𝐍𝐎𝐓𝐄𝐒 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>\n<p class=\"mb-4\">&nbsp;</p>\n<p class=\"mb-4\">❶ 我是個很慢很慢，像樹懶一樣什麼都很慢的人。連要認識自己，去做想做的事，都猶豫不決；總是陷入想改變，卻沒有行動的困局；所以我才會感到無力，歸咎於自己的渺小，埋怨世界運轉過快，厭惡自己得過且過，常常覺得...人間失格。</p>\n<p class=\"mb-4\">❷我常常忽視我的憤怒，在朋友/工作夥伴/上司眼中我是個很冷靜、情緒很穩定的人；我不會發火、不會在外人面前表現不安、不受他人情緒影響；可能是我演技真的很好吧(笑)，我以為我裝作不生氣，總是對人微笑，說服自己對方沒這麼糟，我就能過得很好。但這些沒有釋放的情緒，卻時刻飄散在腦海中擾亂著我，在我沒有集中精神的片刻，咒罵會突然湧起，開始想像一百種吵架回應，我以為我用這個方式維持穩定，但實際上我無時無刻不在打仗；明明只是醒來，我就累了，覺得自己的身體裡淌滿汙水。</p>\n<p class=\"mb-4\">❸我以為我的感受力很差，對週遭事物的變化不夠敏銳；但我最近發現，似乎是被我強行關掉了。高敏特質讓我必須將感受開關封閉，才得以在日常的雜訊中生存。只是疫情後，一個人的時間變多了，當我打開感官，我就忽然覺得這個世界好可愛。安靜地、恆遠地、我在這裡也好似不在這裡。既在遙遠山頭上，俯瞰世界；也在廣袤原野中仰望蒼穹。(好像無意間偷得神的快樂一樣竊喜著)</p>",
+    "id": 5
+  },
+  {
+    "author": "JamJam",
+    "imageListUrl": [],
+    "isPublic": true,
+    "tag": [
+      "閱讀心得",
+      "小說",
+      "觸動人心",
+      "愛"
+    ],
+    "createAt": 1670716800,
+    "title": "當我愛的時候，也第一次被愛《四月，她將到來》",
+    "postType": "閱讀紀錄",
+    "category": "書籍",
+    "description": "我們懶得去愛了，覺得麻煩了。我們疏於累積、交流細微的感受。再這樣下去，我們將無法繼續走下去。我想找回失去的東西，即使它們只是剩下碎屑。",
+    "imageUrl": "https://github.com/jamie-cloud99/isJam/blob/main/public/images/posts/08_April_she_is_coming/01.jpg?raw=true",
+    "content": "<p class=\"mb-4\">已經久到想不起來，愛一個人是什麼樣的感覺？在與未婚妻彌生安排婚期的時刻，藤代收到初戀小春寄來的信。沒有想像中出格的舉動，無論話語和念頭都被藏了起來，沒人真正說出口。閱讀的過程中，我急切地想知道，他是否不愛她，她是否還愛著他，她是否也愛他？但故事沒有爆點，一切就在人與人的對話中，那一封封信件裡娓娓道來。誰也沒搞明白，應該濃烈卻模糊焦距的情感，朦朧素淡地像一幅膠彩畫在我眼前散開。</p>\n<p class=\"mb-4\">看到最後才明白，這不是個追究誰愛誰的故事。是找回愛的故事。明知那些可能會沉澱為親情，糊里糊塗當作習慣的愛情，為什麼還是會讓人陷入？</p>\n<p class=\"py-6 mb-4 text-base tracking-wide leading-relaxed text-primary/80\">「當我愛的時候，也第一次被愛。就像是日蝕。『我的愛』與『你的愛』同等重疊的時刻，只有一瞬間。無法避免的從今日之愛，轉變為明日之愛。但是，我認為只有曾經共同擁有那瞬間的兩人，才能依隨愛的變化。」</p>\n<p class=\"mb-4\">我想不僅是愛情，我們的興趣、工作（？）、人際關係、甚至是經營這一個小帳號，都無可避免地面對分不清愛與習慣的模樣。</p>\n<p class=\"mb-4\">「我們懶得去愛了，覺得麻煩了。我們疏於累積、交流細微的感受。再這樣下去，我們將無法繼續走下去。我想找回失去的東西，即使它們只是剩下碎屑。」</p>\n<p class=\"mb-4\">我想這也是我中斷影劇的分享，穿插讀書心得的原因。一直在失去感覺的地方逡巡，我將無法再走下去；我想暫時出走，梳理內心真正渴望的感動，才是我經營這個帳號更重要的目標。</p>\n<p class=\"mb-4\">也是到現在我才明白，我不是因為愛追劇而分享心得，我是愛被觸動的感覺，無論什麼媒材都無所謂，我只是需要有愛來形塑生命的輪廓，讓我能繼續在生活中翻滾、顫動。</p>\n<p class=\"mb-4\">&nbsp;</p>\n<div class=\"text-stone-700\">\n<h2 class=\"text-xl lg:text-2xl mb-6 font-bold\">直擊心臟的人物語錄</h2>\n<h3 class=\"lg:text-xl mb-4 font-bold\">奈奈</h3>\n<p class=\"mb-4\">大家對別人創造的價值觀太敏感了，是誰決定做為一個人就必須戀愛和做愛呢？雜誌或電視嗎？我覺得男女相處一定要戀愛的時代已經結束了。</p>\n<p class=\"mb-4\">想要吸引別人注意的時候，人就會變得無比溫柔、充滿魅力，但那只是一時的。得到之後，溫柔就會變成膚淺而不負責任。絕大多數人的目的，都是為了獲得別人的愛，而不是去愛人。而且只要對方的心意稍有不足之處，就會把它當成『他不夠愛我』的證明。不論男人或女人，都把自己溫柔的行為，和想被異性喜歡的願望，與真正的愛情混為一談了。因為真正的愛並不是這樣。若是真愛，應該會表現得更不體面、更笨拙。</p>\n<p class=\"mb-4\">&nbsp;</p>\n<h3 class=\"lg:text-xl mb-4 font-bold\">小春</h3>\n<p class=\"mb-4\">我想見見我自己，見見那時候愛著你的自己，見見那個心思率真時的自已。所以寫信給你。</p>\n<p class=\"mb-4\">當我愛的時候，也第一次被愛。就像是日蝕。「我的愛」與「你的愛」同等重疊的時刻，只有一瞬間。無法避免的從今日之愛，轉變為明日之愛。但是，我認為只有曾經共同擁有那瞬間的兩人，才能依隨愛的變化。</p>\n<p class=\"mb-4\">即使只有一瞬間，也希望你能成為與人共享愛情的人。</p>\n</div>",
+    "id": 6
+  }
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
